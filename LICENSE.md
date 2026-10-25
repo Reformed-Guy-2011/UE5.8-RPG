@@ -3,7 +3,7 @@
 Copyright (C) 2026 Reformed Guy-2011. All Rights Reserved.
 
 ## 1. Purpose and Permitted Use
-Permission is hereby granted, free of charge, to any person downloading a copy of this software and associated documentation files from this GitHub repository, to use, compile, and run the software locally and solely for personal, non-commercial entertainment, educational, and testing purposes. 
+Permission is hereby granted, free of charge, to any person downloading a copy of this software and associated documentation files from this GitHub repository to use and run the software locally and solely for personal, non-commercial entertainment, educational, and testing purposes. 
 
 ## 2. Strict Restrictions
 You explicitly MAY NOT:
