@@ -5,7 +5,7 @@ A work-in-progress, open-world multiplayer RPG built entirely with Unreal Engine
 Project Details
 **Engine:** Unreal Engine 5.8
 **Networking:** Fully network-replicated for multiplayer
-**Platform:** Linux(with 0.1) and Windows 11/10
+**Platform:** Linux and Windows 11/10
 
 ---
 
